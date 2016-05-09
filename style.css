@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "Cassidy_Club_Calligraphy";
+src: url('ccc.ttf');
+}
+
+h1 {
+  font-family: "Cassidy_Club_Calligraphy";
+}
