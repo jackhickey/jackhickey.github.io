@@ -1,0 +1,22 @@
+{
+  "name": "jackhickey.github.io",
+  "version": "1.0.0",
+  "description": "A website for cassidy club the band",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackhickey/jackhickey.github.io.git"
+  },
+  "author": "Jack Hickey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jackhickey/jackhickey.github.io/issues"
+  },
+  "homepage": "https://github.com/jackhickey/jackhickey.github.io#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
