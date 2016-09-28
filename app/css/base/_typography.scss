@@ -1,0 +1,16 @@
+$primary-font-color: #000;
+$cassidy-font: 'Cassidy_Club_Calligraphy';
+
+@font-face {
+  font-family: $cassidy-font;
+  src: url('ccc.ttf');
+}
+
+body {
+  color: $primary-font-color;
+}
+
+h1 {
+  font-family: $cassidy-font;
+  font-size: 2em;
+}
