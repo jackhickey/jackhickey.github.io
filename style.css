@@ -1,0 +1,27 @@
+@font-face {
+  font-family: "Cassidy_Club_Calligraphy";
+src: url('ccc.ttf');
+}
+
+body {
+  background-color: black;
+}
+
+h1 {
+  font-family: "Cassidy_Club_Calligraphy";
+  font-size: 160;
+  color: white;
+  text-align: center;
+}
+
+p {
+  color: white;
+}
+
+div.centered {
+margin-left:auto;
+margin-right:auto;
+width:80%;
+}
+
+
