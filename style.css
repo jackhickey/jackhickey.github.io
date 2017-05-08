@@ -1,27 +1,33 @@
 @font-face {
-  font-family: "Cassidy_Club_Calligraphy";
-src: url('ccc.ttf');
+    font-family: "Cassidy_Club_Calligraphy";
+    src: url('ccc.ttf');
 }
 
 body {
-  background-color: black;
+    background-color: white;
 }
 
 h1 {
-  font-family: "Cassidy_Club_Calligraphy";
-  font-size: 160;
-  color: white;
-  text-align: center;
-}
-
-p {
-  color: white;
+    color: black;
+    font-family: "Cassidy_Club_Calligraphy";
+    font-size: 120;
+    text-align: center;
 }
 
 div.centered {
-margin-left:auto;
-margin-right:auto;
-width:80%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
 }
 
+img.banner {
+    width: 100%;
+}
 
+.menu {
+    background: black;
+    color: white;
+    font-family: "Cassidy_Club_Calligraphy";
+    font-size: 30;
+    text-align: right;
+}
