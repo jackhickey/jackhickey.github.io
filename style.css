@@ -3,6 +3,9 @@
     src: url('ccc.ttf');
 }
 
+
+/*base*/
+
 body {
     background-color: white;
 }
@@ -13,6 +16,9 @@ h1 {
     font-size: 120;
     text-align: center;
 }
+
+
+/*menu stuff*/
 
 div.centered {
     margin-left: auto;
@@ -30,4 +36,16 @@ img.banner {
     font-family: "Cassidy_Club_Calligraphy";
     font-size: 30;
     text-align: right;
+}
+
+.menu a {
+    color: white;
+    text-decoration: none;
+    font-size: 32;
+    transition: font 0.5s ease
+}
+
+.menu a:hover {
+    font-size: 33;
+    transition: font 0.3s ease
 }
